@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://anonoomi.github.io/itm/sitemap_index.txt
+Sitemap: https://anonoomi.github.io/ukn/sitemap_index.txt
+Sitemap: https://anonoomi.github.io/wje/sitemap_index.txt
+Sitemap: https://anonoomi.github.io/xZM/sitemap_index.txt
